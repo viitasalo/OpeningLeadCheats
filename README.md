@@ -1,9 +1,9 @@
 # OpeningLeadCheats
-Building AI course - an idea for an AI project (analyze opening leads in bridge and detect anomalies)
+Building AI course project - an idea for an AI project (analyze opening leads in bridge and detect anomalies)
 
 # Project Title
 
-Final project for the Building AI course - Opening Lead Cheaters in Bridge
+Building AI course project - Opening Lead Cheaters in Bridge
 
 ## Summary
 
